@@ -1,0 +1,10 @@
+.venv/
+dataset/
+reconstruction/
+node_modules/
+web-viewer/node_modules/
+web-viewer/dist/
+.env
+.env.*
+!.env.example
+.DS_Store
