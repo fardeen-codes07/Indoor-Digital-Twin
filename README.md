@@ -8,7 +8,7 @@ An interactive indoor digital twin platform that transforms real-world spaces in
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 **[Launch ROOMSCAPE – Live Web Viewer](https://indoor-digital-twin.vercel.app)**
 
@@ -16,7 +16,7 @@ An interactive indoor digital twin platform that transforms real-world spaces in
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 ROOMSCAPE is an Indoor Digital Twin proof of concept developed to convert a real-world indoor environment into an interactive three-dimensional digital representation.
 
@@ -26,7 +26,7 @@ The reconstructed model was inspected and processed using Blender before being i
 
 The platform allows users to view, navigate and explore the reconstructed indoor environment directly through a web browser.
 
-## ✨ Key Features
+##  Key Features
 
 - **3D Point Cloud Visualization:** Displays the reconstructed indoor environment using a PLY model.
 - **Interactive Orbit Controls:** Rotate the model to explore different perspectives.
@@ -35,7 +35,7 @@ The platform allows users to view, navigate and explore the reconstructed indoor
 - **Fullscreen Viewing:** Explore the reconstruction in fullscreen mode.
 - **Browser-Based Access:** View the reconstruction without installing dedicated 3D modelling software.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -48,7 +48,7 @@ The platform allows users to view, navigate and explore the reconstructed indoor
 | GitHub | Version control and source code hosting |
 | Vercel | Web application deployment |
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 The project follows a pipeline that converts a physical indoor environment into an interactive digital representation.
 
@@ -61,7 +61,7 @@ The project follows a pipeline that converts a physical indoor environment into 
 7. **Interactive Visualization:** Implement orbit navigation, zoom, pan and first-person movement.
 8. **Deployment:** Host the web application using Vercel and maintain the source code on GitHub.
 
-## 🏠 Reconstruction Output
+##  Reconstruction Output
 
 The final reconstructed bedroom is exported in PLY format and integrated into the web application.
 
@@ -72,7 +72,7 @@ The final reconstructed bedroom is exported in PLY format and integrated into th
 
 The reconstruction captures the overall spatial structure of the bedroom, including recognizable furniture and surrounding elements.
 
-## 🎮 Navigation Controls
+##  Navigation Controls
 
 | Action | Control |
 |---|---|
@@ -86,7 +86,7 @@ The reconstruction captures the overall spatial structure of the bedroom, includ
 | Look around | Mouse |
 | Exit Free Roam | ESC |
 
-## 🚀 Run Locally
+##  Run Locally
 
 Follow these steps to run ROOMSCAPE on your local machine.
 
